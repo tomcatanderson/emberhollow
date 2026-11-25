@@ -1,0 +1,33 @@
+Emberhollow updates:
+
+-deepen character dialogue and relationships 
+-some characters are protective of children or spouses if Jon has interacted with them unless Jon has lowered their suspicion first (Ex. Harlan will say stay away from my daughters until Jon provides him with sleeping potion...)(Cedric is Mira's fiancé and becomes jealous when relationship with her reaches 5 hearts..). 
+-some characters will develop a dependency on a potion if Jon repeatedly supplies them with it - they will mention a desire for it if jon talks to them and doesn't have it in his inventory (will even offer to pay 10% more) or they may require higher potency after developing a tolerance
+-character dialogue will develop the story plot and worldbuilding. 
+-deepen npc motivations
+
+
+---
+update game:
+-add town reputation and dependency meter - goal is to have full control of town through reputation and dependency. 
+-simple potions sometimes have 25% chance of side effects such as stomach cramp, drowsy, forgetful, lowered inhibition, blunt honesty, etc
+-MC spending the night at inn can drink and play cards with guys and/or dance with girls - chance to win gold, improve or hurt relationships, and chance to have sex. if drinking at inn MC loses morning visit next day unless he drinks hangover cure.
+-MC can use his own potions to boost game performance for that day such as higher focus - find rarer ingredients, arousal oil - girls more open to him boosts relationship progress and chance for intimacy if private, hangover cure - removes hangover penalty, vitality tonic - improves appearance, stamina tonic - 50% chance to brew extra potions with same ingredients and improved sexual performance with girls, etc.
+-able to have affair with Mira while she's engaged to Cedric, if Harlan or Cedric find out they wont trust you.
+-NPCs can forget mistrust if given laced potions with fog tincture
+-men who guard women (especially spouses) will still sometimes interfere in relationship even if trust was established, tinctures can temporarily remove them for day or few days
+-when selling massage oil, if its for the npc and she has high enough relationship, she will ask Jon to give her a massage. first time is innocent, second time she lets out soft moans and asks him to massage lower, third time she removes all her clothing and gives jon a massage.
+-visiting a location at night with girl present while wearing arousal oil and giving her arousal oil has chance for kiss, intimacy, sex based on relationship stats.
+
+--
+updates:
+-new hot baths narration: You strip down and hot water eases every sore muscle. You hear a giggle.. Someone else is already there. [Girl's name] is leaning against the back wall, the water barely covering her breasts. Steam, skin, and soft water sounds mingle in the hot baths as you and [Girl's name] sit side by side. Under the water, [Girl's name] runs her hand up your thigh until she finds your manhood stiff and erect. She strokes it as she looks longingly into your eyes. Your lips caress her neck. [Girl's name] straddles you in the warm pool and you slide in and out of her until you both come together.
+-add a more engaging pop up window/text for game events.
+-able to massage all girls, but final massage stage requires 15 hearts
+-all characters can/will develop a dependency
+-add major and minor story events, npcs will talk about them (ie. Kael will ask Brynn out on a date, so he needs arousal oil, if he's successful he'll thank you and tell you when the date is, then he'll ask for vitality tonic.. player will be able to sabotage date by giving Kael or Brynn different tinctures so one of them doesn't show up. if Kael is incapacitated, player can go to the dates location and meet Brynn there, fuck her, etc..) same goes with spouses going on dates together...; also make an event for Cedric and Mira's engagement dinner and event for their wedding... 
+-Harlan, Garret, etc make comments about you getting close to women they guard. They are hostile to you if you cross a line with their spouse. add some kind of consequence from them that makes the game more challenging. if they have a dependency on you, player can lace their potions with tinctures to effectively incapacitate them so they cant run interference temporarily; the spouse will comment on it... spouses will even pass along potions to their own husbands at a certain stage of relationship.
+-once you have sex with a girl, she becomes your thrall, you can summon her to your home at night and if she's compatible with another girl you can summon both for threesome scene.
+-add more and better flirt lines for all the girls: examples: [Girl's name] touches your arm and her hand lingers for 3 seconds...; [Girl's name] holds your gaze and touches her hair as you talk about potion recipes... 
+-add more and better spend time together lines for all the girls: examples: [Girl's name] kisses you passionately, tongue dancing over yours as her hands rub your swelling groin...; You grab [Girl's name] by the waist and boost her up, her legs wrap around your waist as you press her against the wall. The kissing doesn't end for a while...
+-Elowen romance dialogue: Harlan fell asleep in his favorite chair, my bed's been cold for too many nights. I need you. Elowen pushes you down onto her bed and takes you into her mouth. Harlan is snoring loudly in the other room. She notches you against her pussy and presses down onto you wet and slick. You thrust up into her until she begs for your seed.
